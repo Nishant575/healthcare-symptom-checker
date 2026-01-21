@@ -1,0 +1,13 @@
+{
+  "model_name": "microsoft/BiomedNLP-PubMedBERT-base-uncased-abstract",
+  "num_classes": 49,
+  "training_samples": 1025602,
+  "validation_samples": 132448,
+  "test_samples": 134529,
+  "epochs": 3,
+  "batch_size": 16,
+  "learning_rate": 2e-05,
+  "test_accuracy": 0.9822,
+  "test_f1_macro": 0.9794,
+  "test_f1_weighted": 0.981
+}

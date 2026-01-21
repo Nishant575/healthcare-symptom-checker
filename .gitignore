@@ -1,0 +1,47 @@
+# Virtual environment
+venv/
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+
+# Jupyter checkpoints
+.ipynb_checkpoints/
+*.ipynb_checkpoints
+
+# Large data files
+data/classifier/train.json
+data/classifier/val.json
+data/classifier/test.json
+
+# Raw dataset zips
+data/ddxplus/*.zip
+
+# Model checkpoints (large files)
+models/condition_classifier/checkpoint-*/
+
+# Large model file in final folder
+models/condition_classifier/final/model.safetensors
+
+# Optimizer and scheduler states (large)
+*.pt
+*.pth
+
+# OS generated files
+.DS_Store
+.DS_Store?
+Thumbs.db
+ehthumbs.db
+
+# IDE files
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# Logs
+logs/
+*.log
