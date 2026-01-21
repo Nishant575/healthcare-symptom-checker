@@ -385,9 +385,9 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ## Contact
 
 **Your Name**
-- GitHub: [@yourusername](https://github.com/yourusername)
-- LinkedIn: [Your LinkedIn](https://linkedin.com/in/yourprofile)
-- Email: your.email@example.com
+- GitHub: [@Nishant575](https://github.com/Nishant575)
+- LinkedIn: [Nishant Dalvi](https://linkedin.com/in/nishant-dalvi)
+- Email: ndalvi.cs@gmail.com
 
 ---
 
