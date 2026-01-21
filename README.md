@@ -2,7 +2,7 @@
 
 An end-to-end machine learning project that predicts potential medical conditions based on patient symptoms. Built using PubMedBERT fine-tuned on the DDXPlus medical dataset with **98.22% accuracy** across 49 medical conditions.
 
-![Python](https://img.shields.io/badge/Python-3.11-blue.svg)
+![Python](https://img.shields.io/badge/Python-3.13.11-blue.svg)
 ![PyTorch](https://img.shields.io/badge/PyTorch-2.6.0-red.svg)
 ![HuggingFace](https://img.shields.io/badge/HuggingFace-Transformers-yellow.svg)
 ![License](https://img.shields.io/badge/License-MIT-green.svg)
