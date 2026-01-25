@@ -1,0 +1,55 @@
+                                          precision    recall  f1-score   support
+
+     Acute COPD exacerbation / infection     1.0000    1.0000    1.0000      2153
+                Acute dystonic reactions     1.0000    1.0000    1.0000      3302
+                        Acute laryngitis     0.9911    0.9991    0.9950      3217
+                      Acute otitis media     1.0000    1.0000    1.0000      3516
+                   Acute pulmonary edema     1.0000    1.0000    1.0000      2598
+                    Acute rhinosinusitis     0.9839    0.8671    0.9218      1829
+                      Allergic sinusitis     1.0000    1.0000    1.0000      2411
+                             Anaphylaxis     1.0000    1.0000    1.0000      3799
+                                  Anemia     1.0000    1.0000    1.0000      6842
+                     Atrial fibrillation     1.0000    1.0000    1.0000      2831
+                               Boerhaave     1.0000    1.0000    1.0000      2083
+                          Bronchiectasis     1.0000    1.0000    1.0000      2454
+                           Bronchiolitis     1.0000    1.0000    1.0000        36
+                              Bronchitis     1.0000    1.0000    1.0000      3594
+Bronchospasm / acute asthma exacerbation     1.0000    1.0000    1.0000      2222
+                                  Chagas     1.0000    1.0000    1.0000      1077
+                  Chronic rhinosinusitis     0.9180    0.9905    0.9529      2747
+                        Cluster headache     1.0000    1.0000    1.0000      2825
+                                   Croup     1.0000    1.0000    1.0000       344
+                                   Ebola     1.0000    1.0000    1.0000       100
+                            Epiglottitis     1.0000    1.0000    1.0000      2364
+                                    GERD     1.0000    1.0000    1.0000      3543
+                 Guillain-Barré syndrome     0.9996    1.0000    0.9998      2601
+                 HIV (initial infection)     1.0000    1.0000    1.0000      3919
+                               Influenza     1.0000    1.0000    1.0000      3554
+                         Inguinal hernia     1.0000    1.0000    1.0000      2751
+                             Larygospasm     1.0000    1.0000    1.0000       785
+                         Localized edema     1.0000    1.0000    1.0000      3734
+                       Myasthenia gravis     1.0000    0.9995    0.9998      2215
+                             Myocarditis     1.0000    1.0000    1.0000      1478
+                                    PSVT     1.0000    1.0000    1.0000      2443
+                     Pancreatic neoplasm     1.0000    1.0000    1.0000      2585
+                            Panic attack     1.0000    1.0000    1.0000      3387
+                            Pericarditis     1.0000    1.0000    1.0000      3095
+                               Pneumonia     1.0000    1.0000    1.0000      3542
+                 Possible NSTEMI / STEMI     1.0000    1.0000    1.0000      2911
+                      Pulmonary embolism     1.0000    1.0000    1.0000      3679
+                      Pulmonary neoplasm     1.0000    1.0000    1.0000      1918
+                                     SLE     1.0000    1.0000    1.0000      1564
+                             Sarcoidosis     1.0000    1.0000    1.0000      2902
+                Scombroid food poisoning     1.0000    1.0000    1.0000      2486
+                Spontaneous pneumothorax     1.0000    1.0000    1.0000      1343
+                Spontaneous rib fracture     1.0000    1.0000    1.0000       778
+                           Stable angina     0.9803    1.0000    0.9900      2386
+                            Tuberculosis     1.0000    1.0000    1.0000      2080
+                                    URTI     1.0000    1.0000    1.0000      8743
+                         Unstable angina     1.0000    0.9833    0.9916      2880
+                       Viral pharyngitis     0.9996    0.9965    0.9981      8334
+                          Whooping cough     1.0000    1.0000    1.0000       549
+
+                                accuracy                         0.9974    134529
+                               macro avg     0.9974    0.9967    0.9969    134529
+                            weighted avg     0.9975    0.9974    0.9974    134529

@@ -17,14 +17,19 @@ data/classifier/train.json
 data/classifier/val.json
 data/classifier/test.json
 
+data/classifier_v2/train.json
+data/classifier_v2/val.json
+data/classifier_v2/test.json
+
 # Raw dataset zips
 data/ddxplus/*.zip
 
 # Model checkpoints (large files)
 models/condition_classifier/checkpoint-*/
-
+models/condition_classifier_v2/checkpoint-*/
 # Large model file in final folder
 models/condition_classifier/final/model.safetensors
+models/condition_classifier_v2/final/model.safetensors
 
 # Optimizer and scheduler states (large)
 *.pt
@@ -45,3 +50,5 @@ ehthumbs.db
 # Logs
 logs/
 *.log
+.env
+backend/.env

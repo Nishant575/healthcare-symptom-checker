@@ -1,0 +1,11 @@
+{
+  "epochs": 1,
+  "batch_size": 8,
+  "gradient_accumulation_steps": 8,
+  "effective_batch_size": 64,
+  "learning_rate": 2e-05,
+  "max_length": 512,
+  "training_time": "9:12:48.342353",
+  "train_loss": 0.11755350052112797,
+  "class_weights_used": true
+}
